@@ -11,6 +11,7 @@ you need to pass output name with video extension example .ts, .mkv, .mp4
 
 ## Screenshot
 
+<img width="833" height="872" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/e0018e3f-812d-4ed9-9bcb-a51cf2acafb3" />
 
 ## prerequisites
 
