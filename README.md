@@ -7,7 +7,7 @@ python vimeo-private-video-dl.py "JSON_Playlist_URL" "output_file_name"
 ```
 you need to pass output name with video extension example .ts, .mkv, .mp4
 
-```To get the Vimeo JSON playlist, open your browser and press F12. Switch to the Network tab, then load the video page. In the filter box, search for “playlist”. Right click on that request then copy value and then click on Copy URL.```
+```To get the Vimeo JSON playlist, open your browser and press F12. Switch to the Network tab then load the video page. In the filter box, type "playlist". Right-click on that request, copy the value plus then click Copy URL.```
 
 ## Screenshot
 
@@ -24,7 +24,7 @@ you need to pass output name with video extension example .ts, .mkv, .mp4
 
 ## Windows Guide
 
-In order to use this tool, you need to download FFmpeg tool link: [https://www.gyan.dev/ffmpeg/builds/](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-essentials.7z). After downloading, extract the archive, then open the extracted folder and navigate to the /bin/ directory. Copy the files ffmpeg.exe, ffprobe.exe, and ffplay.exe into your Python script folder, and then run the python script.
+To use this tool download FFmpeg from [https://www.gyan.dev/ffmpeg/builds/](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-essentials.7z). After downloading, extract the archive, open the extracted folder and go to the /bin/ directory. Copy ffmpeg.exe, ffprobe.exe but also ffplay.exe into your Python script folder then run the Python script.
 
 ## Linux Guide
 
