@@ -24,7 +24,7 @@ you need to pass output name with video extension example .ts, .mkv, .mp4
 
 ## Windows Guide
 
-To use this tool download FFmpeg from [https://www.gyan.dev/ffmpeg/builds/](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-essentials.7z). After downloading, extract the archive, open the extracted folder and go to the /bin/ directory. Copy ffmpeg.exe, ffprobe.exe but also ffplay.exe into your Python script folder then run the Python script.
+To use this tool download FFmpeg from [https://www.gyan.dev/ffmpeg/builds/](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-essentials.7z). After downloading, extract the archive, open the extracted folder and go to the /bin/ directory. Copy ffmpeg.exe, ffprobe.exe into your Python script folder then run the Python script.
 
 ## Linux Guide
 
