@@ -1,0 +1,10 @@
+.DS_Store
+.build/
+__pycache__/
+dist/
+tmp/
+*.mp4
+*.mkv
+*.mov
+*.ts
+*.webm
